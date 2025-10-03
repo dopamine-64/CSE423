@@ -9,7 +9,7 @@ class Shape:
         self.vertices = vertices                
         self.color = color
         self.position = position 
-        self.scale = scale
+        self.scale = scale 
         self.mode = mode
         self.gradient = gradient
 
